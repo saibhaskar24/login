@@ -7,12 +7,16 @@ Features include:
 
 Login, Logout , Admin and Register
 
+## Index
 ![Index](https://github.com/saibhaskar24/login/blob/master/images/index.PNG)
 
+## Login
 ![Login](https://github.com/saibhaskar24/login/blob/master/images/login.PNG)
 
+## Register
 ![Register](https://github.com/saibhaskar24/login/blob/master/images/register.PNG)
 
+## Admin
 ![Admin](https://github.com/saibhaskar24/login/blob/master/images/admin.PNG)
 
 
