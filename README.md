@@ -5,7 +5,7 @@ Simple Authentication for your django project.
 
 Features include:
 
-Login, Logout , Admin and Register
+Login, Logout , Admin , Register and Customisable templates.
 
 ## Index
 ![Index](https://github.com/saibhaskar24/login/blob/master/images/index.PNG)
